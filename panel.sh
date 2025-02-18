@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 echo -e "${BLUE}"
 echo "=========================================="
 echo "          HYDRAPANEL INSTALLER"
-echo "         by craftingcrazegamimg  
+echo "         by craftingcrazegamimg"  
 echo "=========================================="
 echo -e "${NC}"
 
